@@ -128,6 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# add your env folder here if its there
-*.csv
-*.log
+# add files to ignorgit config --global core.excludesFile ~/.gitignoree
+Train.csv
+Test.csv
+test.log
+Procfile
