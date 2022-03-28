@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# add your env folder here if its there
+*.csv
+*.log
